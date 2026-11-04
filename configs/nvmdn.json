@@ -1,0 +1,14 @@
+{
+  "embedding_dim": 128,
+  "hidden_dim": 128,
+  "n_encode_layers": 1,
+  "batch_size": 2048,
+  "epoch_size": 1280000,
+  "val_size": 10000,
+  "lr_model": 0.0001,
+  "lr_decay": 0.999,
+  "seed": 1234,
+  "max_grad_norm": 1.0,
+  "normalization": "batch",
+  "epochs": 100
+}

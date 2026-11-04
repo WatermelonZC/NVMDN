@@ -1,0 +1,26 @@
+{
+  "budget_seconds": 3600,
+  "ga": {
+    "POP_SIZE": 100,
+    "CROSSOVER_RATE": 0.9,
+    "MUTATION_RATE": 0.1
+  },
+  "diwo": {
+    "POP_INITIAL_SIZE": 80,
+    "POP_MAX_SIZE": 100,
+    "S_MIN": 1,
+    "S_MAX": 20
+  },
+  "alns": {
+    "destroy_count": 10,
+    "initial_deterioration": 0.02,
+    "initial_acceptance": 0.5,
+    "final_temperature_ratio": 0.01,
+    "rho": 0.1,
+    "l_s": 5,
+    "sigma_1": 33,
+    "sigma_2": 13,
+    "sigma_3": 9,
+    "shaw_weight": 0.3
+  }
+}

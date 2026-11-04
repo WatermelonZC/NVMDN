@@ -1,0 +1,11 @@
+torch>=2.8
+numpy
+scipy
+pandas
+openpyxl
+tqdm
+tensorboard
+tensorboardX
+matplotlib
+psutil
+gurobipy==12.0.2
